@@ -1,0 +1,1 @@
+This is a semester project for Visual Programming I. It allowed users to generate realistic, randomized datasets based on a template file. The code reads data from a CSV file, generates a specified number of random records based on the data in that file, and writes the randomly generated records to a new CSV file.
